@@ -36,13 +36,13 @@
 1. Clone the GitHub repository.
 
     ```bash
-    git clone https
+    git clone https://github.com/Nampoina-Razanakoto/REACT_Efandray.git
     ```
 
 1. Navigate into the repository.
 
     ```bash
-    cd chat-app
+    cd REACT_Efandray
     ```
 
 1. Open src/config/pubnub-keys.json. **Replace YOUR_PUBLISH_KEY_HERE and YOUR_SUBSCRIBE_KEY_HERE** with your keyset from your [PubNub Dashboard](https://dashboard.pubnub.com/).
